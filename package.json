@@ -1,0 +1,19 @@
+{
+  "name": "lottie",
+  "version": "1.0.0",
+  "description": "Tests using Lottie and Bodymovin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreFelipeRibeiro/Lottie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreFelipeRibeiro/Lottie/issues"
+  },
+  "homepage": "https://github.com/AndreFelipeRibeiro/Lottie#readme"
+}
